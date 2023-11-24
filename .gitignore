@@ -1,0 +1,6 @@
+system/lib64/libMegviiUnlock.so
+system/lib64/libMegviiUnlock-jni-1.2.so
+system/app/WebViewGoogle/WebViewGoogle.apk
+system/app/MiuiBiometric/lib/arm64/libMegviiUnlock.so
+system/app/MiuiBiometric/lib/arm64/libMegviiUnlock-jni-1.2.so
+modem.img
