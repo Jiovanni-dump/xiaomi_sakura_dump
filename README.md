@@ -1,0 +1,14 @@
+# sakura-user 9 PKQ1.180917.001 20.1.9 release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: sakura
+- flavor: sakura-user
+- release: 9
+- id: PKQ1.180917.001
+- incremental: 20.1.9
+- tags: release-keys
+- fingerprint: xiaomi/sakura/sakura:9/PKQ1.180917.001/20.1.9:user/release-keys
+- is_ab: false
+- brand: xiaomi
+- branch: sakura-user-9-PKQ1.180917.001-20.1.9-release-keys
+- repo: xiaomi_sakura_dump
